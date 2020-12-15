@@ -1,4 +1,4 @@
-ロゴやアイコンを作成できる[**canva**](https://www.canva.com/)で文字だけでロゴを作って背景を別のものに合わせたい時
+ロゴやアイコンを作成できる[**canva**](https://www.canva.com/)で文字だけでロゴを作って背景を別のものに合わせたい時  
 [**canva**](https://www.canva.com/)で文字で何かロゴを作る  
 
 <img width="200" alt="qiita-square" src="https://i.gyazo.com/5e132c424b2100daf84eeb210f3dbe6b.png">  
