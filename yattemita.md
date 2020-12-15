@@ -7,5 +7,5 @@
 
 <img width="200" alt="qiita-square" src="https://i.gyazo.com/14b5b3b5a7556c88458442dfb39f673c.png">  
   
-という結果になり背景とロゴを合わせたい時にこんな事もできる。
+という結果になり背景とロゴを合わせたい時にこんな事もできる。  
 もちろん、[**canva**](https://www.canva.com/)だけで背景と文字を組み合わせる事も可能。
