@@ -1,5 +1,5 @@
 # MySQLとMariaDBの違い
-### MySQLの特徴
+## MySQLの特徴
 MySQLはオープンソースで提供されているリレーショナルデータベース管理システム。
 主に以下のような特徴がある。  
 
@@ -11,7 +11,7 @@ MySQLはオープンソースで提供されているリレーショナルデー
 * 世界中でも高いシェアを獲得している
 * デュアルライセンス(GPLと商用)を採用  
 
-### MariaDBの特徴
+## MariaDBの特徴
 MariaDBはMySQLから派生したオープンソースのリレーショナルデータベース管理システム。
 MariaDBには主に以下のような特徴がある。  
 
@@ -24,4 +24,8 @@ MariaDBには主に以下のような特徴がある。
 * 拡張性や処理性能が評価され、世界中で急速にシェアを拡大している
 * GPLライセンスを採用  
 
-基本的に MariaDB の方が MySQL よりも高い性能を誇る場面が多いと言われている。その為、MySQL と MariaDB のどちらを使用するか悩んだ場合には、MariaDB を選んでおいて問題は無い。
+基本的に MariaDB の方が MySQL よりも高い性能を誇る場面が多いと言われている。その為、MySQL と MariaDB のどちらを使用するか悩んだ場合には、MariaDB を選んでおいて問題は無い。  
+
+## EC2でMriaDBを起動させる
+sudo systemctl start mariadbコマンドで起動
+MariaDBの状態を確認するには、 sudo systemctl status mariadbコマンドを使う。
