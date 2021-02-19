@@ -3,4 +3,5 @@
   
 EC2サーバにssh接続しUnicornを起動することで全世界からアクセスできるようにする。  
 
-https://i.gyazo.com/f714f9429c268099d33149d9d5b28870.png
+<img width="300" alt="qiita-square" src="https://i.gyazo.com/f714f9429c268099d33149d9d5b28870.png">  
+
