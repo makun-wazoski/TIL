@@ -78,3 +78,24 @@ after_fork do |_server, _worker|
 end
 ```
 
+ここまで編集したら、リモートリポジトリに「commit→push」する。
+※別にブランチを切っている場合は、masterブランチにmergeする。
+
+### EC2 にローカルの全内容を反映
+以下のコマンドで権限を付与する。  
+```
+#mkdirコマンドで新たにディレクトリを作成
+[ec2-user@ip-172-xx-xx-xxx ~]$ sudo mkdir /var/www/
+
+#作成したwwwディレクトリの権限をec2-userに変更
+[ec2-user@ip-172-xx-xx-xxx ~]$ sudo chown ec2-user /var/www/
+```
+次に、GitHubから「リポジトリURL」を取得し、クローンする。  
+※「HTTPS」でOK、URLをコピーする。  
+
+コードをクローン
+```
+[ec2-user@ip-172-xx-xx-xxx ~]$ cd /var/www/
+[ec2-user@ip-172-xx-xx-xxx www]$ git clone コピーしたURL
+```
+
