@@ -7,7 +7,7 @@ EC2サーバにssh接続しUnicornを起動することで全世界からアク�
   
 # Unicornの設定
 ### Unicornのインストール
-```Gemfile
+``` Gemfile
 group :production do
   gem 'unicorn','5.4.1'
 end
