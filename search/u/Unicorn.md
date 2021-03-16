@@ -6,7 +6,8 @@ EC2サーバにssh接続しUnicornを起動することで全世界からアク�
 <img width="500" alt="qiita-square" src="https://i.gyazo.com/f714f9429c268099d33149d9d5b28870.png">  
   
 # Unicornの設定
-### Unicornのインストール  
+### Unicornのインストール
+___
 Gemfile
 ``` 
 group :production do
