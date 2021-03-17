@@ -323,6 +323,18 @@ E, [2016-12-21T04:01:20.734067 #18813] Mysql2::Error::ConnectionError: Can't con
 「production.log」とは、サーバーログを記録する場所で、いわば「EC2内での出来事を記録している場所」のことを指す。  
 ローカルにおいてrails sコマンドでアプリケーションを実行したときも、さまざまなログが表示される。  
 それと同様の役割を果たす。
+```
+[ec2-user@ip-172-xx-xx-xxx <リポジトリ名>]$ less log/production.log
+
+（production.logの表示）
+```
+また、もう少しログを見やすく確認できるツールとして「tail -fコマンドというものもある。
+
+### tail -fコマンド
+最新のログを10行分だけ表示してくれる。
+```
+[ec2-user@ip-172-xx-xx-xxx <リポジトリ名>]$ tail -f production.log
+```
 
 
 
@@ -332,7 +344,3 @@ E, [2016-12-21T04:01:20.734067 #18813] Mysql2::Error::ConnectionError: Can't con
 
 
 
-
-
-
-[ec2-user@ip-172-xx-xx-xxx www]$ git clone コピーしたURL
