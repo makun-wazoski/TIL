@@ -21,7 +21,8 @@ GitHubDesktopは、変更修正した項目は全てインデックスへ追加�
 ```
 % git add .
 % git commit -m "コミット名"
-```
+```  
+  
   
   
   
