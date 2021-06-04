@@ -23,8 +23,16 @@ DNSサーバーは、ブラウザから入力されたドメインに対して�
 
 <img width="700" alt="qiita-square" src=https://i.gyazo.com/e0b6c312889c6aa22ae18f2414a283f3.png>
 <br>
+<br>
 
+# DNSレコード
+ドメインとIPアドレスを紐づけるゾーンファイルに書かれた一行ごとの情報をDNSレコードと呼び、これには複数の種類がある。
 
-
+参照記事
+https://www.weblab.co.jp/staff/other/10116.html  
+https://www.onamae.com/option/dnsrecord/  
+https://help.onamae.com/answer/7883  
+https://qiita.com/leomaro7/items/7d717077dd9165357f16 → 簡易的（わかりやすい）  
+https://wa3.i-3-i.info/word12284.html　　→ ピヨ太
 
 
