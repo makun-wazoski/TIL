@@ -7,4 +7,4 @@ DNSも同様である。IPアドレスのまま管理するのは大変だが、
 そしてDNSのサービスを提供するサーバーを「DNSサーバー」と呼ぶ。  
 DNSサーバーは、ブラウザから入力されたドメインに対して、紐付けられたIPアドレスを返す。
 
-![代替テキスト](https://i.gyazo.com/68ee868cc7685bf84fdfa135a828757e.png)
+<img width="500" alt="qiita-square" src=https://i.gyazo.com/68ee868cc7685bf84fdfa135a828757e.png>
