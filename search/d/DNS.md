@@ -8,7 +8,7 @@ DNSも同様である。IPアドレスのまま管理するのは大変だが、
 DNSサーバーは、ブラウザから入力されたドメインに対して、紐付けられたIPアドレスを返す。  
 <br>
 
-<img width="800" alt="qiita-square" src=https://i.gyazo.com/68ee868cc7685bf84fdfa135a828757e.png>
+<img width="700" alt="qiita-square" src=https://i.gyazo.com/68ee868cc7685bf84fdfa135a828757e.png>
 <br>
 
 以上をまとめると、ブラウザからドメインでアクセスする際には、以下のような処理が裏側で行われている。
@@ -21,7 +21,7 @@ DNSサーバーは、ブラウザから入力されたドメインに対して�
 - 該当サイトの表示
 <br>
 
-<img width="500" alt="qiita-square" src=https://i.gyazo.com/e0b6c312889c6aa22ae18f2414a283f3.png>
+<img width="600" alt="qiita-square" src=https://i.gyazo.com/e0b6c312889c6aa22ae18f2414a283f3.png>
 <br>
 
 
