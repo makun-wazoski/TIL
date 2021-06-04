@@ -21,7 +21,7 @@ DNSサーバーは、ブラウザから入力されたドメインに対して�
 - 該当サイトの表示
 <br>
 
-<img width="600" alt="qiita-square" src=https://i.gyazo.com/e0b6c312889c6aa22ae18f2414a283f3.png>
+<img width="700" alt="qiita-square" src=https://i.gyazo.com/e0b6c312889c6aa22ae18f2414a283f3.png>
 <br>
 
 
