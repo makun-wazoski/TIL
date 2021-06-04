@@ -33,6 +33,6 @@ https://www.weblab.co.jp/staff/other/10116.html
 https://www.onamae.com/option/dnsrecord/  
 https://help.onamae.com/answer/7883  
 https://qiita.com/leomaro7/items/7d717077dd9165357f16 → 簡易的（わかりやすい）  
-https://wa3.i-3-i.info/word12284.html　→ ピヨ太
+https://wa3.i-3-i.info/word12284.html ピヨ太
 
 
