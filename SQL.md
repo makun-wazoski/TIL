@@ -6,6 +6,7 @@ SQLとは、「Structured Query Language」の略で、直訳すると「構造�
 またSQL文はANSIやISOが規格化しているため、「Oracle Database」「Microsoft SQL Server」「My SQL」などでもほぼ同じように利用できる。
 対話型の操作でコンパイル不要。大量のデータを効率よく操作できるので、使い勝手の良い言語である。  
 <br>
+<br>
 
 ## SQLで何ができる？
 SQLでは次のような処理ができる。  
@@ -21,6 +22,7 @@ SQLでは次のような処理ができる。
   
 膨大な量のデータがRDBによって整理されているため、これらの処理も効率よく実施可能である。  
 <br>
+<br>
 
 ## SQLの基礎知識：リレーショナルデータベース
 リレーショナルデータベース(RDB)とは、互いに関連付けられた表にデータを格納して扱うデータベースのこと。  
@@ -30,12 +32,13 @@ SQLでは次のような処理ができる。
 また昨今のSQL文を使うデータベースはほとんどRDBであるため、RDBはデータベースのことを指すといっても過言ではないと言える。　　
 
 実際に2018年の時点でRDBのシェアが世界のデータベースシステムの4割を占めるという調査結果も出ている。　　
-RDBの上位シェアに位置しているのが「Oracle」「MySQL」「Microsoft SQL Server」「PostgreSQL」である。
+RDBの上位シェアに位置しているのが「Oracle」「MySQL」「Microsoft SQL Server」「PostgreSQL」である。  
+<br>
 <br>
 
-
 参照記事
-https://udemy.benesse.co.jp/development/system/intro-sql.html　　
+https://udemy.benesse.co.jp/development/system/intro-sql.html  
+<br>
 <br>
 
 ## コマンド
