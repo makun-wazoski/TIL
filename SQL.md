@@ -46,7 +46,7 @@ SQLの命令文はDDL・DML・DCLの３種類で構成されている。
   「CREATE(データベースやテーブル作成)」「DROP(データベースやテーブル削除)」「ALTER(データベースやテーブルの変更)」などが挙げられる。  
   
 - **DML(データ操作言語：Data Manipulation Language)**  
-  データの取得・登録・更新・削除などのデータ操作に関わる言語をDMLと呼ぶ。　　
+  データの取得・登録・更新・削除などのデータ操作に関わる言語をDMLと呼ぶ。  
   よく使われる言語は「SELECT(データ取得)」「UPDATE(データ更新)」「DELETE(データ削除)」「INSERT(データ挿入)」など。  
   
 - **DCL(データ制御言語：Data Control Language)**  
