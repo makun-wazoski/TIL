@@ -7,6 +7,7 @@ WordPress等の動的な処理のいらないLPなどの静的なWebサイトで
 
 参考記事  
 https://bagelee.com/design/netlify/about-neflify/  
+https://qiita.com/niihara_megumu/items/db8c53f0f5de9f377976  
 
 Netlify  
 https://www.netlify.com/
