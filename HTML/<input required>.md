@@ -1,4 +1,4 @@
-# <input required>タグ
+# input requiredタグ
 <input>要素のrequired属性を指定すると、 その入力項目が入力必須であることをブラウザに知らせることができる。  
 
 - 属性  
@@ -21,9 +21,9 @@ HTMLソース
 ```
 <br>
 
-<img height="200" width="400" alt="Gyazo-image" src="https://i.gyazo.com/80147988b00a8f3e4c1190dbc3b95ccb.png">  
+<img height="200" width="600" alt="Gyazo-image" src="https://i.gyazo.com/80147988b00a8f3e4c1190dbc3b95ccb.png">  
 ↓  
-<img height="200" width="400" alt="Gyazo-image" src="https://i.gyazo.com/471b0c67dd96bcc3586756e98b68af67.png">  
+<img height="200" width="600" alt="Gyazo-image" src="https://i.gyazo.com/471b0c67dd96bcc3586756e98b68af67.png">  
 <br>
 
 参照  
