@@ -10,6 +10,4 @@ https://bagelee.com/design/netlify/about-neflify/
 https://qiita.com/niihara_megumu/items/db8c53f0f5de9f377976  
 
 Netlify  
-<p><a href="https://www.netlify.com/
-" target="_blank">Netlify</a></p>
 https://www.netlify.com/
