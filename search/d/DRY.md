@@ -7,9 +7,9 @@ DRYを意識するメリットとして、可読性の向上や、コード量�
 <img width="900" alt="image" src="https://i.gyazo.com/4f72f045c67ab8e9da507068335e5b17.png">
 <br>
 
-### 例
+### 【例】
 
-**【例】DRYが意識できていないコード***
+**DRYが意識できていないコード***
 
 ```
 def select_birthplace
