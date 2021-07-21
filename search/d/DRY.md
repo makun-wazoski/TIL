@@ -9,7 +9,8 @@ DRYを意識するメリットとして、可読性の向上や、コード量�
 
 ### 例
 
-**【例】DRYが意識できていないコード  
+**【例】DRYが意識できていないコード***
+
 ```
 def select_birthplace
   prefecture = ['北海道', '青森', '...(省略)...', '沖縄']
@@ -40,6 +41,7 @@ select_work_address
 上記の例では、`prefecture`という配列の情報を各メソッド内で定義している。  
 加えて、`num`という変数に代入する`ges.to_i`や`address`も、代入する値までは同じだが、各メソッドで定義している。  
 これでは、「同じ情報を繰り返し定義しなさい」というDRYの考え方に沿っていない。  
+<br>
 
 **修正版**  
 
@@ -64,6 +66,7 @@ select_prefecture(prefecture, 'birthplace')
 select_prefecture(prefecture, 'address')
 select_prefecture(prefecture, 'work_address')
 ```
+<br>
 
 ### 解説
 まず、完全に重複しているコードを抜き出す。  
@@ -86,6 +89,7 @@ end
 
 select_prefecture(prefecture)
 ```
+<br>
 
 最後に、実行結果は条件分岐を設定。第2引数に`category`を設定して条件分岐を行う。  
 
