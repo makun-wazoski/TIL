@@ -75,6 +75,8 @@ select_prefecture(prefecture, 'work_address')
  prefecture = ['北海道', '青森', '...(省略)...', '沖縄']
  num = gets.to_i
  ```
+ <br>
+ 
  配列である`prefecture`から一つの要素を取り出すという作業を一つにまとめる。  
  
  作業のメソッドを`select_prefecture`とする。  
