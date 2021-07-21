@@ -68,7 +68,7 @@ select_prefecture(prefecture, 'work_address')
 ```
 <br>
 
-### 解説
+### 【解説】
 まず、完全に重複しているコードを抜き出す。  
 
 ```
