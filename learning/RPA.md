@@ -16,6 +16,10 @@ RPAは定型業務を効率化し、企業の競争力を高めるツールに�
 参考記事  
 https://www.mamoru-kun.com/tips/rpameaning/#:~:text=%E3%80%8CPRA%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81%E6%A9%9F%E6%A2%B0,%E3%81%AE%E3%81%93%E3%81%A8%E3%82%92%E6%8C%87%E3%81%97%E3%81%BE%E3%81%99%E3%80%82  
 
+https://cross-in.jp/case-of-rpa/  
+
+https://business.ntt-east.co.jp/content/aiocr_rpa/difference_between_rpa_and_ai/  
+
 簡単に  
 https://wa3.i-3-i.info/word16143.html  
 https://e-words.jp/w/RPA.html
